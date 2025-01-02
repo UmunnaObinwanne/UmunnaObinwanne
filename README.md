@@ -1,7 +1,7 @@
 # Hello, I'm Obinwanne Izuka Umunna 👋
 
 ## About Me
-I'm a mid-level developer passionate about building innovative web solutions and exploring the frontiers of AI technology. With a strong foundation in modern web development, I specialize in creating robust, scalable applications that solve real-world problems.
+I'm a junior developer passionate about building innovative web solutions and exploring the frontiers of AI technology. With a strong foundation in modern web development, I specialize in creating robust, scalable applications that solve real-world problems.
 
 ## 🚀 Recent Projects
 
